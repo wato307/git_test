@@ -3,3 +3,4 @@ feature1 is to create visual tag for nx apps
 feature1 is also for GC use case- for all
 feature1 is one task of nx1953 project
 feature1 is discussed in the meeting
+add exit=1
