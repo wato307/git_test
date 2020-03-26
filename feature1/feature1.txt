@@ -4,3 +4,5 @@ feature1 is also for GC use case- for all
 feature1 is one task of nx1953 project
 feature1 is discussed in the meeting
 add exit=1
+
+test from shi6w1224
